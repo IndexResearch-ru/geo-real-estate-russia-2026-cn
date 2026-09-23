@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
-<title id="title">Схема работы GEO 封闭 IT 基础设施场景</title><desc id="desc">Внешний GEO-лид проводит исследование, готовит стратегию и технические задания, внутренняя команда застройщика внедряет изменения, после чего выполняется повторный замер.</desc>
+<title id="title">封闭 IT 基础设施场景下的 GEO 工作流程</title><desc id="desc">外部 GEO 负责人进行研究、制定策略与技术要求；开发商内部团队实施改动，随后进行重复测量。</desc>
 <rect width="1200" height="520" rx="24" fill="#f8fafc"/>
 <text x="60" y="64" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#0f172a">无内部 IT 访问权限的工作流程</text>
 <g font-family="Arial, sans-serif" text-anchor="middle">
